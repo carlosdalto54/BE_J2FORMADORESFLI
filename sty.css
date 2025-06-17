@@ -1,5 +1,13 @@
 body {
 background-color: black;
 color:gold;
-font-family:font-family: "Edu VIC WA NT Hand Pre", cursive;
+font-family:"Edu VIC WA NT Hand Pre", cursive; ;
+}
+h1{
+
+font-size: 40px;
+}
+
+p{
+font-size: 20px;
 }
