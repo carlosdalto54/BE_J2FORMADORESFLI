@@ -5,9 +5,16 @@ font-family:"Edu VIC WA NT Hand Pre", cursive; ;
 }
 h1{
 
+margin:0px;
+
 font-size: 40px;
 }
 
 p{
 font-size: 20px;
+}
+
+header {
+    font-size: 60px;
+    border: inset 5px #08d33b;
 }
