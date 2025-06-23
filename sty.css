@@ -16,6 +16,6 @@ font-size: 20px;
 
 header {
     font-size: 60px;
-    border: inset 5px #08d33b;
-    margin: 30px;
+    border-bottom: inset 5px #08d33b;
+    padding: 30px;
 }
