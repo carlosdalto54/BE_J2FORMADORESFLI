@@ -1,6 +1,6 @@
 body {
 background-color: rgb(3, 1, 31);
-color:rgb(108, 207, 111);
+color:rgb(7, 194, 13);
 
 font-family:"Edu VIC WA NT Hand Pre", cursive; 
 
@@ -8,11 +8,11 @@ margin: 0px;
 }
 
 h1{
-font-size: 40px;
+font-size: 30px;
 }
 
 p{
-font-size: 20px;
+font-size: 25px;
 }
 
 header {
