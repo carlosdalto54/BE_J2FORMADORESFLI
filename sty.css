@@ -9,18 +9,25 @@ margin: 0px;
 
 h1{
 font-size: 30px;
+margin-top: 0px;
 color: rgb(218, 204, 10);
 }
 
 p{
 font-size: 25px;
-color: rgb(255, 255, 255);
+color: rgb(216, 248, 228);
 }
 
 header {
-    font-size: 60px;
+    font-size: 40px;
     border-bottom: solid 5px;
     padding: 30px;
-    color: aliceblue;
+    color: rgb(24, 173, 24);
     text-align: center;
+}
+
+section {
+    background-color: rgb(6, 56, 71);
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
